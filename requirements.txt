@@ -1,0 +1,7 @@
+# Need to do brew install poppler, in mac os at system level
+# this code will work in Python 3.12
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+Pillow
